@@ -1,12 +1,12 @@
 {
-    "name": "justinrainbow/json-schema",
+    "name": "robbielove/json-schema",
     "type": "library",
     "description": "A library to validate a json schema.",
     "keywords": [
         "json",
         "schema"
     ],
-    "homepage": "https://github.com/justinrainbow/json-schema",
+    "homepage": "https://github.com/robbielove/json-schema",
     "license": "MIT",
     "authors": [
         {
@@ -27,7 +27,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
+        "php": "^8.1",
         "marc-mabe/php-enum":"^2.0 || ^3.0 || ^4.0",
         "icecave/parity": "1.0.0"
     },
